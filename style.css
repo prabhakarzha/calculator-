@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+
+}
+h1{
+    background-color: red;
+    text-align: center;
+}
+.txtfield{
+    text-align: right;
+
+}
+.container{
+    width: 40%;
+    height: 80%;
+    margin-left: 30%;
+    margin-top: 20%;
+    background-color: blueviolet;
+    border: 2px solid black;
+
+}
+input{
+    margin: 8px;
+    font-size: 18px;
+    box-shadow: teal;
+
+}
